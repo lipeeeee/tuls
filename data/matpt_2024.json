@@ -1,0 +1,54 @@
+{
+    "10002": {
+        "DetectedSchool": "ipb",
+        "DetectedExam": "matpt",
+        "CreationDate": "2024-07-07",
+        "ModDate": null,
+        "Metadata": {
+            "/Author": "Jos\u00e9 Agostinho Veloso da Silva",
+            "/Creator": "Writer",
+            "/Producer": "LibreOffice 7.3",
+            "/CreationDate": "D:20240707120801+01'00'"
+        }
+    },
+    "10007": {
+        "DetectedSchool": "ipca",
+        "DetectedExam": "matpt",
+        "CreationDate": "2024-07-05",
+        "ModDate": "2024-07-05",
+        "Metadata": {
+            "/Title": "Tabela pautas prova avalicao_Biologia 2024_IPCA",
+            "/Producer": "macOS Vers\u00e3o 11.6.7 (Build 20G630) Quartz PDFContext",
+            "/Author": "Laurentina Vareiro",
+            "/Creator": "Word",
+            "/CreationDate": "D:20240705123523Z00'00'",
+            "/ModDate": "D:20240705123523Z00'00'"
+        }
+    },
+    "10012": {
+        "DetectedSchool": "utad",
+        "DetectedExam": "matpt",
+        "CreationDate": "2024-07-06",
+        "ModDate": "2024-07-06",
+        "Metadata": {
+            "/Author": "Jos\u00e9 Agostinho Veloso da Silva",
+            "/Creator": "Microsoft\u00ae Word 2019",
+            "/CreationDate": "D:20240706004446+01'00'",
+            "/ModDate": "D:20240706004446+01'00'",
+            "/Producer": "Microsoft\u00ae Word 2019"
+        }
+    },
+    "10017": {
+        "DetectedSchool": "ipvc",
+        "DetectedExam": "matpt",
+        "CreationDate": "2024-07-09",
+        "ModDate": "2024-07-09",
+        "Metadata": {
+            "/Author": "Jos\u00e9 Agostinho Veloso da Silva",
+            "/Creator": "Microsoft\u00ae Word 2019",
+            "/CreationDate": "D:20240709115713+01'00'",
+            "/ModDate": "D:20240709115713+01'00'",
+            "/Producer": "Microsoft\u00ae Word 2019"
+        }
+    }
+}
