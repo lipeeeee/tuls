@@ -1,7 +1,7 @@
 """
   APNOR webcrawler
 """
-from apnor_cosntants import *
+from apnor_constants import *
 
 import sys
 import json
@@ -108,7 +108,7 @@ def check_valid_numbers(start: int, end: int, year_filter=None, exam_filter=None
     return valid_numbers
 
 if __name__ == "__main__":
-    valid_numbers = check_valid_numbers(start=9000, end=11000, year_filter=2024, exam_filter=MAT_PT_EXAM)
+    valid_numbers = check_valid_numbers(start=0, end=10500, year_filter=None, exam_filter=MAT_PT_EXAM)
 
     # Show/Export info
     if len(sys.argv) > 1:
