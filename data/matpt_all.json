@@ -1,0 +1,158 @@
+{
+    "4": {
+        "DetectedSchool": "ipb",
+        "DetectedExam": "matpt",
+        "CreationDate": "2020-08-12",
+        "ModDate": null
+    },
+    "9": {
+        "DetectedSchool": "ipca",
+        "DetectedExam": "matpt",
+        "CreationDate": "2020-08-02",
+        "ModDate": "2020-08-02"
+    },
+    "13": {
+        "DetectedSchool": "ipvc",
+        "DetectedExam": "matpt",
+        "CreationDate": "2020-08-11",
+        "ModDate": "2020-08-11"
+    },
+    "18": {
+        "DetectedSchool": "utad",
+        "DetectedExam": "matpt",
+        "CreationDate": "2020-08-02",
+        "ModDate": "2020-08-02"
+    },
+    "23": {
+        "DetectedSchool": "ipp",
+        "DetectedExam": "matpt",
+        "CreationDate": "2020-08-11",
+        "ModDate": "2020-08-11"
+    },
+    "6003": {
+        "DetectedSchool": "ipb",
+        "DetectedExam": "matpt",
+        "CreationDate": "2021-07-27",
+        "ModDate": null
+    },
+    "6013": {
+        "DetectedSchool": "ipca",
+        "DetectedExam": "matpt",
+        "CreationDate": "2021-08-05",
+        "ModDate": "2021-08-05"
+    },
+    "6018": {
+        "DetectedSchool": "utad",
+        "DetectedExam": "matpt",
+        "CreationDate": "2021-08-06",
+        "ModDate": "2021-08-06"
+    },
+    "6023": {
+        "DetectedSchool": "ipp",
+        "DetectedExam": "matpt",
+        "CreationDate": "2021-08-05",
+        "ModDate": "2021-08-05"
+    },
+    "6028": {
+        "DetectedSchool": "ipp",
+        "DetectedExam": "matpt",
+        "CreationDate": "2021-08-05",
+        "ModDate": "2021-08-12"
+    },
+    "6029": {
+        "DetectedSchool": "ipp",
+        "DetectedExam": "matpt",
+        "CreationDate": "2021-09-02",
+        "ModDate": "2021-09-02"
+    },
+    "7003": {
+        "DetectedSchool": "ipb",
+        "DetectedExam": "matpt",
+        "CreationDate": "2022-08-01",
+        "ModDate": null
+    },
+    "7008": {
+        "DetectedSchool": "utad",
+        "DetectedExam": "matpt",
+        "CreationDate": "2022-07-19",
+        "ModDate": "2022-07-19"
+    },
+    "7013": {
+        "DetectedSchool": "ipvc",
+        "DetectedExam": "matpt",
+        "CreationDate": "2022-07-21",
+        "ModDate": "2022-07-21"
+    },
+    "7018": {
+        "DetectedSchool": "ipp",
+        "DetectedExam": "matpt",
+        "CreationDate": "2022-07-28",
+        "ModDate": "2022-07-28"
+    },
+    "7023": {
+        "DetectedSchool": "ipca",
+        "DetectedExam": "matpt",
+        "CreationDate": "2022-07-30",
+        "ModDate": "2022-07-30"
+    },
+    "7025": {
+        "DetectedSchool": "utad",
+        "DetectedExam": "matpt",
+        "CreationDate": "2022-07-27",
+        "ModDate": "2022-07-27"
+    },
+    "9003": {
+        "DetectedSchool": "ipb",
+        "DetectedExam": "matpt",
+        "CreationDate": "2023-07-25",
+        "ModDate": null
+    },
+    "9008": {
+        "DetectedSchool": "ipca",
+        "DetectedExam": "matpt",
+        "CreationDate": "2023-07-14",
+        "ModDate": "2023-07-14"
+    },
+    "9013": {
+        "DetectedSchool": "ipp",
+        "DetectedExam": "matpt",
+        "CreationDate": "2023-07-14",
+        "ModDate": "2023-07-14"
+    },
+    "9018": {
+        "DetectedSchool": "utad",
+        "DetectedExam": "matpt",
+        "CreationDate": "2023-07-13",
+        "ModDate": "2023-07-13"
+    },
+    "9023": {
+        "DetectedSchool": "ipvc",
+        "DetectedExam": "matpt",
+        "CreationDate": "2023-07-16",
+        "ModDate": "2023-07-16"
+    },
+    "10002": {
+        "DetectedSchool": "ipb",
+        "DetectedExam": "matpt",
+        "CreationDate": "2024-07-07",
+        "ModDate": null
+    },
+    "10007": {
+        "DetectedSchool": "ipca",
+        "DetectedExam": "matpt",
+        "CreationDate": "2024-07-05",
+        "ModDate": "2024-07-05"
+    },
+    "10012": {
+        "DetectedSchool": "utad",
+        "DetectedExam": "matpt",
+        "CreationDate": "2024-07-06",
+        "ModDate": "2024-07-06"
+    },
+    "10017": {
+        "DetectedSchool": "ipvc",
+        "DetectedExam": "matpt",
+        "CreationDate": "2024-07-09",
+        "ModDate": "2024-07-09"
+    }
+}

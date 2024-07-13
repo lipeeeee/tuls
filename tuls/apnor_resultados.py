@@ -12,7 +12,7 @@ from io import BytesIO
 
 # Valid api headers
 headers = {
-    'Cookie': 'JSESSIONID=0BBABC5E5707D8DFBC92BCCEB2BADD3E',
+    'Cookie': 'JSESSIONID=292988238FA655915161AC45B8BBBE6A',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
 }
 
@@ -60,7 +60,6 @@ def extract_pdf_info(response: requests.Response):
         DETECTED_EXAM: found_exam,
         CREATION_DATE: parse_pdf_date(info.get('/CreationDate')),
         MODIFICATION_DATE: parse_pdf_date(info.get('/ModDate')),
-        METADATA: info
     }
 
 def parse_pdf_date(pdf_date):
