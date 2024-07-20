@@ -1,5 +1,6 @@
 """
   APNOR webcrawler
+  Usage: python apnor_resultados fich.json
 """
 from apnor_constants import *
 
@@ -12,7 +13,7 @@ from io import BytesIO
 
 # Valid api headers
 headers = {
-    'Cookie': 'JSESSIONID=292988238FA655915161AC45B8BBBE6A',
+    'Cookie': 'JSESSIONID=A265D7389979D40A80939938A6B56922',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
 }
 
@@ -107,7 +108,7 @@ def check_valid_numbers(start: int, end: int, year_filter=None, exam_filter=None
     return valid_numbers
 
 if __name__ == "__main__":
-    valid_numbers = check_valid_numbers(start=0, end=10500, year_filter=None, exam_filter=MAT_PT_EXAM)
+    valid_numbers = check_valid_numbers(start=0, end=10500, year_filter=None, exam_filter=CERTIFICATE)
 
     # Show/Export info
     if len(sys.argv) > 1:
