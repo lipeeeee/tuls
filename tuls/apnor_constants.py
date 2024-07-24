@@ -12,6 +12,7 @@ IPB  = "ipb"
 
 """String to School mappings"""
 SCHOOL_MAPPING = {
+    "IPVC": IPVC,
     "Instituto Politécnico de Viana do Castelo": IPVC,
     "Instituto Politécnico d e Viana do Castelo": IPVC,
     "Instituto Politécnico de Viana  do C astelo": IPVC,
@@ -22,8 +23,10 @@ SCHOOL_MAPPING = {
     "IPCA": IPCA,
     "Instituto Politécnico de Bragança": IPB,
     "Instituto Politécnico d e Bragança": IPB,
+    "IPB": IPB,
     "Instituto Politécnico do Porto": IPP,
-    "Instituto Politécnico do Port o": IPP
+    "Instituto Politécnico do Port o": IPP,
+    "IPP": IPP
 }
 
 """Exams"""
@@ -66,6 +69,7 @@ EXAM_MAPPING = {
 """Metadata dict keys"""
 DETECTED_SCHOOL = "DetectedSchool"
 DETECTED_EXAM = "DetectedExam"
+DETECTED_POINTS = "DetectedPoints"
 CREATION_DATE = "CreationDate"
 MODIFICATION_DATE = "ModDate"
 METADATA = "Metadata"

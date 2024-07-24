@@ -5,6 +5,7 @@
 from apnor_constants import *
 
 import sys
+import re
 import json
 import requests
 from datetime import datetime
@@ -13,7 +14,7 @@ from io import BytesIO
 
 # Valid api headers
 headers = {
-    'Cookie': 'JSESSIONID=A265D7389979D40A80939938A6B56922',
+    'Cookie': 'JSESSIONID=4E98905240CA2892EFDDD4056DBF6A86',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
 }
 
@@ -31,6 +32,7 @@ def extract_pdf_info(response: requests.Response):
     # Extract content
     found_school = None
     found_exam = None
+    found_points = None
     first_page = None
     for page in pdf_reader.pages:
         text = page.extract_text()
@@ -38,16 +40,22 @@ def extract_pdf_info(response: requests.Response):
             first_page = text 
 
         # School search
-        for school in SCHOOL_MAPPING:
-            if school in text:
-                found_school = SCHOOL_MAPPING[school]
-                break
+        if not found_school:
+            for school in SCHOOL_MAPPING:
+                if school in text:
+                    found_school = SCHOOL_MAPPING[school]
+                    break
 
         # Exam search
-        for exam in EXAM_MAPPING:
-            if exam in text:
-                found_exam = EXAM_MAPPING[exam]
-                break
+        if not found_exam:
+            for exam in EXAM_MAPPING:
+                if exam in text:
+                    found_exam = EXAM_MAPPING[exam]
+                    break
+        
+         # Points search
+        if not found_points:
+             found_points = extract_points(text)
 
     if not found_exam or not found_school:
         if first_page == "" or first_page == " ":
@@ -59,6 +67,7 @@ def extract_pdf_info(response: requests.Response):
     return {
         DETECTED_SCHOOL: found_school,
         DETECTED_EXAM: found_exam,
+        DETECTED_POINTS: found_points,
         CREATION_DATE: parse_pdf_date(info.get('/CreationDate')),
         MODIFICATION_DATE: parse_pdf_date(info.get('/ModDate')),
     }
@@ -81,6 +90,17 @@ def parse_pdf_date(pdf_date):
     # Create datetime object
     creation_datetime = datetime(year, month, day, hour, minute, second)
     return creation_datetime.strftime("%Y-%m-%d")
+
+def extract_points(text):
+    """Checks for ONLY certificate points"""
+    pattern = r"(\d+) pontos \(na escala \[0 a 200\]\)"
+    match = re.search(pattern, text)
+    
+    if match:
+        points = int(match.group(1))
+        return points
+    else:
+        return None
 
 def check_valid_numbers(start: int, end: int, year_filter=None, exam_filter=None) -> dict:
     """Checks for valid numbers in apnor API"""
@@ -108,7 +128,7 @@ def check_valid_numbers(start: int, end: int, year_filter=None, exam_filter=None
     return valid_numbers
 
 if __name__ == "__main__":
-    valid_numbers = check_valid_numbers(start=0, end=10500, year_filter=None, exam_filter=CERTIFICATE)
+    valid_numbers = check_valid_numbers(start=10000, end=12500, year_filter=None, exam_filter=CERTIFICATE)
 
     # Show/Export info
     if len(sys.argv) > 1:
