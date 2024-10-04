@@ -1,0 +1,218 @@
+[
+  {
+    "Degrees": [
+      "Matemática",
+      "Computação",
+      "Engenharia",
+      "Inteligência Artificial"
+    ],
+    "Access Exams": [
+      "19  Matemática A",
+      "18  Português"
+    ],
+    "CNAEF's": [],
+    "University codes": [
+      "3135",
+      "1105",
+      "1103",
+      "1000",
+      "3032",
+      "0501"
+    ]
+  },
+  {
+    "degree_code": "9397",
+    "degree_name": "Ciências da Computação",
+    "universities": [
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9397&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas",
+          "access_exams": [
+            "19  Matemática A",
+            "10  Geometria Descritiva",
+            "07  Física e Química",
+            "18  Português"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L215",
+    "degree_name": "Engenharia e Gestão de Sistemas de Informação",
+    "universities": [
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L215&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas",
+          "access_exams": [
+            "19  Matemática A",
+            "07  Física e Química",
+            "18  Português",
+            "04  Economia"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9119",
+    "degree_name": "Engenharia Informática",
+    "universities": [
+      {
+        "uni_code": "0501",
+        "uni_name": "Universidade de Coimbra - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=0501",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação",
+          "access_exams": [
+            "19  Matemática A",
+            "07  Física e Química",
+            "02  Biologia e Geologia",
+            "18  Português"
+          ]
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação",
+          "access_exams": [
+            "19  Matemática A",
+            "07  Física e Química",
+            "02  Biologia e Geologia",
+            "18  Português"
+          ]
+        }
+      },
+      {
+        "uni_code": "3135",
+        "uni_name": "Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3135",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação",
+          "access_exams": [
+            "19  Matemática A",
+            "18  Português",
+            "07  Física e Química"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L224",
+    "degree_name": "Engenharia Informática e Computação",
+    "universities": [
+      {
+        "uni_code": "1105",
+        "uni_name": "Universidade do Porto - Faculdade de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L224&code=1105",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação",
+          "access_exams": [
+            "19  Matemática A",
+            "07  Física e Química",
+            "18  Português"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L227",
+    "degree_name": "Inteligência Artificial e Ciência de Dados",
+    "universities": [
+      {
+        "uni_code": "1103",
+        "uni_name": "Universidade do Porto - Faculdade de Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L227&code=1103",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas",
+          "access_exams": [
+            "19  Matemática A",
+            "07  Física e Química",
+            "18  Português"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9209",
+    "degree_name": "Matemática",
+    "universities": [
+      {
+        "uni_code": "0501",
+        "uni_name": "Universidade de Coimbra - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9209&code=0501",
+        "uni_metadata": {
+          "cnaef_code": "461 Matemática",
+          "access_exams": [
+            "19  Matemática A",
+            "07  Física e Química",
+            "02  Biologia e Geologia",
+            "18  Português"
+          ]
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9209&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "461 Matemática",
+          "access_exams": [
+            "19  Matemática A",
+            "07  Física e Química",
+            "18  Português",
+            "02  Biologia e Geologia",
+            "04  Economia",
+            "10  Geometria Descritiva"
+          ]
+        }
+      },
+      {
+        "uni_code": "1103",
+        "uni_name": "Universidade do Porto - Faculdade de Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9209&code=1103",
+        "uni_metadata": {
+          "cnaef_code": "461 Matemática",
+          "access_exams": [
+            "19  Matemática A",
+            "07  Física e Química",
+            "02  Biologia e Geologia",
+            "18  Português"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9385",
+    "degree_name": "Matemática Aplicada",
+    "universities": [
+      {
+        "uni_code": "1103",
+        "uni_name": "Universidade do Porto - Faculdade de Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9385&code=1103",
+        "uni_metadata": {
+          "cnaef_code": "461 Matemática",
+          "access_exams": [
+            "19  Matemática A",
+            "07  Física e Química",
+            "02  Biologia e Geologia",
+            "18  Português"
+          ]
+        }
+      }
+    ]
+  }
+]

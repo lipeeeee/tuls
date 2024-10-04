@@ -23,7 +23,7 @@ from bs4 import BeautifulSoup
 import dges_lic_constants as CONST
 
 HARD_NAME_FILTER = False
-HARD_ACCESS_EXAM_FILTER = False
+HARD_ACCESS_EXAM_FILTER = True
 
 def main() -> int:
     """dges scraper entry point"""
@@ -39,10 +39,10 @@ def main() -> int:
         scraped_degrees.extend(letter_degree)
 
     # Apply filters
-    access_exam_filter = []
+    access_exam_filter = [CONST.MAT_A_EXAM, CONST.PT_EXAM]
     degree_name_filter = ["Matemática", "Computação", "Engenharia", "Inteligência Artificial"]
     cnaef_filter = []
-    uni_codes_filter = []
+    uni_codes_filter = [CONST.ISEP_UNI_CODE, CONST.FEUP_UNI_CODE, CONST.FCUP_UNI_CODE, CONST.UM_UNI_CODE, CONST.IPCA_EST_UNI_CODE, CONST.UC_UNI_CODE]
     print(f"#" * 120)
     print(f"[FILTER] Applying filters:")
     print(f"exams={access_exam_filter}")
@@ -54,6 +54,13 @@ def main() -> int:
     # Show/Export info
     if len(sys.argv) > 1:
         out_file = open(sys.argv[1], "w")
+        info_dict = {
+            "Degrees": degree_name_filter,
+            "Access Exams": access_exam_filter,
+            "CNAEF's": cnaef_filter,
+            "University codes": uni_codes_filter
+        }
+        filtered_degrees.insert(0, info_dict)
         json.dump(filtered_degrees, out_file, indent=2, ensure_ascii=False)
         out_file.close()
         print(f"#" * 120)
