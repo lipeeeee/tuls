@@ -1,0 +1,4454 @@
+[
+  {
+    "degree_code": "L090",
+    "degree_name": "Ecologia e Ambiente",
+    "universities": [
+      {
+        "uni_code": "0602",
+        "uni_name": "Universidade de Évora - Escola de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L090&code=0602",
+        "uni_metadata": {
+          "cnaef_code": "422 Ciências do Ambiente"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9081",
+    "degree_name": "Economia",
+    "universities": [
+      {
+        "uni_code": "6800",
+        "uni_name": "ISCTE - Instituto Universitário de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=6800",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "0170",
+        "uni_name": "Universidade dos Açores - Faculdade de Economia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=0170",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "0204",
+        "uni_name": "Universidade do Algarve - Faculdade de Economia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=0204",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "0400",
+        "uni_name": "Universidade da Beira Interior",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=0400",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "0503",
+        "uni_name": "Universidade de Coimbra - Faculdade de Economia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=0503",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "0604",
+        "uni_name": "Universidade de Évora - Escola de Ciências Sociais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=0604",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "1517",
+        "uni_name": "Universidade de Lisboa - Instituto Superior de Economia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=1517",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "1308",
+        "uni_name": "Universidade da Madeira - Faculdade de Ciências Sociais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=1308",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "0904",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Economia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=0904",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "1104",
+        "uni_name": "Universidade do Porto - Faculdade de Economia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=1104",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "1202",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=1202",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "2910",
+        "uni_name": "Centro Universitário Lusófona - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=2910",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "4300",
+        "uni_name": "Instituto Superior de Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=4300",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "2100",
+        "uni_name": "Universidade Autónoma de Lisboa Luís de Camões",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=2100",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "2270",
+        "uni_name": "Universidade Católica Portuguesa - Faculdade de Ciências Económicas e Empresariais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=2270",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "2271",
+        "uni_name": "Universidade Católica Portuguesa - Faculdade de Economia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=2271",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "2410",
+        "uni_name": "Universidade Lusíada - Centro Universitário Lusíada - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=2410",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      },
+      {
+        "uni_code": "2500",
+        "uni_name": "Universidade Portucalense Infante D. Henrique",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9081&code=2500",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "A006",
+    "degree_name": "Economia (ensino em Inglês)",
+    "universities": [
+      {
+        "uni_code": "1517",
+        "uni_name": "Universidade de Lisboa - Instituto Superior de Economia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=A006&code=1517",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L152",
+    "degree_name": "Economia e Finanças - Licenciatura Internacional",
+    "universities": [
+      {
+        "uni_code": "2270",
+        "uni_name": "Universidade Católica Portuguesa - Faculdade de Ciências Económicas e Empresariais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L152&code=2270",
+        "uni_metadata": {
+          "cnaef_code": "314 Economia"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9353",
+    "degree_name": "Educação",
+    "universities": [
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9353&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "142 Ciências da Educação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8427",
+    "degree_name": "Educação (regime pós-laboral)",
+    "universities": [
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8427&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "142 Ciências da Educação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9082",
+    "degree_name": "Educação Ambiental",
+    "universities": [
+      {
+        "uni_code": "3042",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior de Educação de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9082&code=3042",
+        "uni_metadata": {
+          "cnaef_code": "142 Ciências da Educação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L130",
+    "degree_name": "Educação Ambiental e Turismo de Natureza",
+    "universities": [
+      {
+        "uni_code": "3142",
+        "uni_name": "Instituto Politécnico de Santarém - Escola Superior de Educação de Santarém",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L130&code=3142",
+        "uni_metadata": {
+          "cnaef_code": "142 Ciências da Educação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9853",
+    "degree_name": "Educação Básica",
+    "universities": [
+      {
+        "uni_code": "0150",
+        "uni_name": "Universidade dos Açores - Faculdade de Ciências Sociais e Humanas",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=0150",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "0604",
+        "uni_name": "Universidade de Évora - Escola de Ciências Sociais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=0604",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "1308",
+        "uni_name": "Universidade da Madeira - Faculdade de Ciências Sociais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=1308",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "1202",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Humanas e Sociais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=1202",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3022",
+        "uni_name": "Instituto Politécnico de Beja - Escola Superior de Educação",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3022",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3042",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior de Educação de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3042",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3052",
+        "uni_name": "Instituto Politécnico de Castelo Branco - Escola Superior de Educação de Castelo Branco",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3052",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3062",
+        "uni_name": "Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3062",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3091",
+        "uni_name": "Instituto Politécnico da Guarda - Escola Superior de Educação, Comunicação e Desporto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3091",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3101",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Educação e Ciências Sociais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3101",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3112",
+        "uni_name": "Instituto Politécnico de Lisboa - Escola Superior de Educação",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3112",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3121",
+        "uni_name": "Instituto Politécnico de Portalegre - Escola Superior de Educação e Ciências Sociais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3121",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3131",
+        "uni_name": "Instituto Politécnico do Porto - Escola Superior de Educação",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3131",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3142",
+        "uni_name": "Instituto Politécnico de Santarém - Escola Superior de Educação de Santarém",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3142",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3151",
+        "uni_name": "Instituto Politécnico de Setúbal - Escola Superior de Educação",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3151",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3162",
+        "uni_name": "Instituto Politécnico de Viana do Castelo - Escola Superior de Educação",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3162",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3181",
+        "uni_name": "Instituto Politécnico de Viseu - Escola Superior de Educação de Viseu",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3181",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "3081",
+        "uni_name": "Universidade do Algarve - Escola Superior de Educação e Comunicação",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3081",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "4450",
+        "uni_name": "ISPA - Instituto Universitário de Ciências Psicológicas, Sociais e da Vida",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=4450",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "4076",
+        "uni_name": "Escola Superior de Educação de Fafe",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=4076",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "4080",
+        "uni_name": "Escola Superior de Educação de João de Deus",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=4080",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "4085",
+        "uni_name": "Escola Superior de Educação de Paula Frassinetti",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=4085",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "4627",
+        "uni_name": "Instituto Politécnico Jean Piaget do Norte - Escola Superior de Desporto e Educação Jean Piaget de Vila Nova de Gaia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=4627",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "4601",
+        "uni_name": "Instituto Politécnico Jean Piaget do Sul - Escola Superior de Educação Jean Piaget de Almada",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=4601",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "4616",
+        "uni_name": "Instituto Politécnico da Lusofonia - Escola Superior de Educação da Lusofonia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=4616",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "4271",
+        "uni_name": "Instituto Superior de Ciências Educativas do Douro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=4271",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "4270",
+        "uni_name": "ISCE - Instituto Superior de Lisboa e Vale do Tejo",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=4270",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      },
+      {
+        "uni_code": "4298",
+        "uni_name": "ISEC Lisboa - Instituto Superior de Educação e Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=4298",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9876",
+    "degree_name": "Educação Básica (regime pós-laboral)",
+    "universities": [
+      {
+        "uni_code": "3112",
+        "uni_name": "Instituto Politécnico de Lisboa - Escola Superior de Educação",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9876&code=3112",
+        "uni_metadata": {
+          "cnaef_code": "144 Formação de Professores do Ensino Básico (1.º e 2.º Ciclos)"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9736",
+    "degree_name": "Educação Física e Desporto",
+    "universities": [
+      {
+        "uni_code": "1308",
+        "uni_name": "Universidade da Madeira - Faculdade de Ciências Sociais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9736&code=1308",
+        "uni_metadata": {
+          "cnaef_code": "813 Desporto"
+        }
+      },
+      {
+        "uni_code": "2910",
+        "uni_name": "Centro Universitário Lusófona - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9736&code=2910",
+        "uni_metadata": {
+          "cnaef_code": "813 Desporto"
+        }
+      },
+      {
+        "uni_code": "2920",
+        "uni_name": "Centro Universitário Lusófona - Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9736&code=2920",
+        "uni_metadata": {
+          "cnaef_code": "813 Desporto"
+        }
+      },
+      {
+        "uni_code": "4306",
+        "uni_name": "Instituto Superior de Estudos Interculturais e Transdisciplinares de Almada",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9736&code=4306",
+        "uni_metadata": {
+          "cnaef_code": "813 Desporto"
+        }
+      },
+      {
+        "uni_code": "4630",
+        "uni_name": "Universidade da Maia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9736&code=4630",
+        "uni_metadata": {
+          "cnaef_code": "813 Desporto"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L040",
+    "degree_name": "Educação e Formação",
+    "universities": [
+      {
+        "uni_code": "1513",
+        "uni_name": "Universidade de Lisboa - Instituto de Educação",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L040&code=1513",
+        "uni_metadata": {
+          "cnaef_code": "142 Ciências da Educação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9878",
+    "degree_name": "Educação Musical",
+    "universities": [
+      {
+        "uni_code": "3131",
+        "uni_name": "Instituto Politécnico do Porto - Escola Superior de Educação",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9878&code=3131",
+        "uni_metadata": {
+          "cnaef_code": "146 Formação de Professores e Formadores de Áreas Tecnológicas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9084",
+    "degree_name": "Educação Social",
+    "universities": [
+      {
+        "uni_code": "3042",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior de Educação de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=3042",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "3101",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Educação e Ciências Sociais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=3101",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "3121",
+        "uni_name": "Instituto Politécnico de Portalegre - Escola Superior de Educação e Ciências Sociais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=3121",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "3131",
+        "uni_name": "Instituto Politécnico do Porto - Escola Superior de Educação",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=3131",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "3142",
+        "uni_name": "Instituto Politécnico de Santarém - Escola Superior de Educação de Santarém",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=3142",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "3181",
+        "uni_name": "Instituto Politécnico de Viseu - Escola Superior de Educação de Viseu",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=3181",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "3081",
+        "uni_name": "Universidade do Algarve - Escola Superior de Educação e Comunicação",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=3081",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "2500",
+        "uni_name": "Universidade Portucalense Infante D. Henrique",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=2500",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "4076",
+        "uni_name": "Escola Superior de Educação de Fafe",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=4076",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "4085",
+        "uni_name": "Escola Superior de Educação de Paula Frassinetti",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=4085",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "4627",
+        "uni_name": "Instituto Politécnico Jean Piaget do Norte - Escola Superior de Desporto e Educação Jean Piaget de Vila Nova de Gaia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=4627",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "4601",
+        "uni_name": "Instituto Politécnico Jean Piaget do Sul - Escola Superior de Educação Jean Piaget de Almada",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=4601",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "4581",
+        "uni_name": "Instituto Politécnico da Maia - Escola Superior de Ciências Sociais, Educação e Desporto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=4581",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "4271",
+        "uni_name": "Instituto Superior de Ciências Educativas do Douro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=4271",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "4277",
+        "uni_name": "Instituto Superior de Ciências da Informação e da Administração",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=4277",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "4270",
+        "uni_name": "ISCE - Instituto Superior de Lisboa e Vale do Tejo",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=4270",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9473",
+    "degree_name": "Educação Social Gerontológica",
+    "universities": [
+      {
+        "uni_code": "3091",
+        "uni_name": "Instituto Politécnico da Guarda - Escola Superior de Educação, Comunicação e Desporto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9473&code=3091",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      },
+      {
+        "uni_code": "3162",
+        "uni_name": "Instituto Politécnico de Viana do Castelo - Escola Superior de Educação",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9473&code=3162",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9879",
+    "degree_name": "Educação Social (regime pós-laboral)",
+    "universities": [
+      {
+        "uni_code": "3131",
+        "uni_name": "Instituto Politécnico do Porto - Escola Superior de Educação",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9879&code=3131",
+        "uni_metadata": {
+          "cnaef_code": "762 Trabalho Social e Orientação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L194",
+    "degree_name": "Eletrónica e Mecânica Industrial",
+    "universities": [
+      {
+        "uni_code": "3012",
+        "uni_name": "Universidade de Aveiro - Escola Superior de Tecnologia e Gestão de Águeda",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L194&code=3012",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L185",
+    "degree_name": "Empreendedorismo",
+    "universities": [
+      {
+        "uni_code": "4500",
+        "uni_name": "Instituto Superior Miguel Torga",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L185&code=4500",
+        "uni_metadata": {
+          "cnaef_code": "345 Gestão e Administração"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9855",
+    "degree_name": "Energia e Ambiente",
+    "universities": [
+      {
+        "uni_code": "3092",
+        "uni_name": "Instituto Politécnico da Guarda - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9855&code=3092",
+        "uni_metadata": {
+          "cnaef_code": "851 Tecnologia de Proteção do Ambiente"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9934",
+    "degree_name": "Energias Renováveis",
+    "universities": [
+      {
+        "uni_code": "4630",
+        "uni_name": "Universidade da Maia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9934&code=4630",
+        "uni_metadata": {
+          "cnaef_code": "522 Eletricidade e Energia"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8522",
+    "degree_name": "Energias Renováveis e Ambiente",
+    "universities": [
+      {
+        "uni_code": "4298",
+        "uni_name": "ISEC Lisboa - Instituto Superior de Educação e Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8522&code=4298",
+        "uni_metadata": {
+          "cnaef_code": "422 Ciências do Ambiente"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9500",
+    "degree_name": "Enfermagem",
+    "universities": [
+      {
+        "uni_code": "7001",
+        "uni_name": "Escola Superior de Enfermagem de Coimbra",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7001",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7002",
+        "uni_name": "Escola Superior de Enfermagem de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7002",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7003",
+        "uni_name": "Escola Superior de Enfermagem do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7003",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7005",
+        "uni_name": "Instituto Politécnico de Beja - Escola Superior de Saúde",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7005",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7015",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior de Saúde de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7015",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7020",
+        "uni_name": "Instituto Politécnico de Castelo Branco - Escola Superior de Saúde Dr. Lopes Dias",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7020",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7040",
+        "uni_name": "Instituto Politécnico da Guarda - Escola Superior de Saúde da Guarda",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7040",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7045",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Saúde",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7045",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7055",
+        "uni_name": "Instituto Politécnico de Portalegre - Escola Superior de Saúde",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7055",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7065",
+        "uni_name": "Instituto Politécnico de Santarém - Escola Superior de Saúde de Santarém",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7065",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "3155",
+        "uni_name": "Instituto Politécnico de Setúbal - Escola Superior de Saúde",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=3155",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7075",
+        "uni_name": "Instituto Politécnico de Viana do Castelo - Escola Superior de Saúde",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7075",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7085",
+        "uni_name": "Instituto Politécnico de Viseu - Escola Superior de Saúde de Viseu",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7085",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7092",
+        "uni_name": "Universidade dos Açores - Escola Superior de Saúde - Angra do Heroísmo",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7092",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7093",
+        "uni_name": "Universidade dos Açores - Escola Superior de Saúde - Ponta Delgada",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7093",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7035",
+        "uni_name": "Universidade do Algarve - Escola Superior de Saúde",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7035",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "3013",
+        "uni_name": "Universidade de Aveiro - Escola Superior de Saúde de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=3013",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7030",
+        "uni_name": "Universidade de Évora - Escola Superior de Enfermagem de São João de Deus",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7030",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "1320",
+        "uni_name": "Universidade da Madeira - Escola Superior de Saúde",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=1320",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7010",
+        "uni_name": "Universidade do Minho - Escola Superior de Enfermagem",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7010",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "7080",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola Superior de Saúde",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7080",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4096",
+        "uni_name": "Escola Superior de Enfermagem São Francisco das Misericórdias",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4096",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4098",
+        "uni_name": "Escola Superior de Enfermagem de São José de Cluny",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4098",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4590",
+        "uni_name": "Escola Superior de Saúde Atlântica",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4590",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4110",
+        "uni_name": "Escola Superior de Saúde Cruz Vermelha Portuguesa - Alto Tâmega",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4110",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4091",
+        "uni_name": "Escola Superior de Saúde da Cruz Vermelha Portuguesa - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4091",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4106",
+        "uni_name": "Escola Superior de Saúde Egas Moniz",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4106",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4620",
+        "uni_name": "Escola Superior de Saúde da Fundação «Fernando Pessoa»",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4620",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4103",
+        "uni_name": "Escola Superior de Saúde Jean Piaget de Viseu",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4103",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4089",
+        "uni_name": "Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4089",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4097",
+        "uni_name": "Escola Superior de Saúde de Santa Maria",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4097",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4626",
+        "uni_name": "Instituto Politécnico Jean Piaget do Norte - Escola Superior de Saúde Jean Piaget de Vila Nova de Gaia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4626",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4603",
+        "uni_name": "Instituto Politécnico Jean Piaget do Sul - Escola Superior de Saúde Jean Piaget do Algarve",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4603",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4614",
+        "uni_name": "Instituto Politécnico da Lusofonia - Escola Superior de Saúde Ribeiro Sanches",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4614",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4113",
+        "uni_name": "Instituto Politécnico de Saúde do Norte - CESPU - Escola Superior de Enfermagem do Tâmega e Sousa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4113",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4108",
+        "uni_name": "Instituto Politécnico de Saúde do Norte - CESPU - Escola Superior de Saúde do Vale do Ave",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4108",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4460",
+        "uni_name": "ISAVE - Instituto Superior de Saúde",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=4460",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "2218",
+        "uni_name": "Universidade Católica Portuguesa - Escola de Enfermagem (Lisboa)",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=2218",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "2219",
+        "uni_name": "Universidade Católica Portuguesa - Escola de Enfermagem (Porto)",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=2219",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9501",
+    "degree_name": "Enfermagem (entrada no 2.º semestre)",
+    "universities": [
+      {
+        "uni_code": "7015",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior de Saúde de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9501&code=7015",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      },
+      {
+        "uni_code": "4096",
+        "uni_name": "Escola Superior de Enfermagem São Francisco das Misericórdias",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9501&code=4096",
+        "uni_metadata": {
+          "cnaef_code": "723 Enfermagem"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9085",
+    "degree_name": "Enfermagem Veterinária",
+    "universities": [
+      {
+        "uni_code": "3041",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior Agrária de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=3041",
+        "uni_metadata": {
+          "cnaef_code": "640 Ciências Veterinárias"
+        }
+      },
+      {
+        "uni_code": "3051",
+        "uni_name": "Instituto Politécnico de Castelo Branco - Escola Superior Agrária de Castelo Branco",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=3051",
+        "uni_metadata": {
+          "cnaef_code": "640 Ciências Veterinárias"
+        }
+      },
+      {
+        "uni_code": "3061",
+        "uni_name": "Instituto Politécnico de Coimbra - Escola Superior Agrária de Coimbra",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=3061",
+        "uni_metadata": {
+          "cnaef_code": "640 Ciências Veterinárias"
+        }
+      },
+      {
+        "uni_code": "3125",
+        "uni_name": "Instituto Politécnico de Portalegre - Escola Superior de Biociências de Elvas",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=3125",
+        "uni_metadata": {
+          "cnaef_code": "640 Ciências Veterinárias"
+        }
+      },
+      {
+        "uni_code": "3161",
+        "uni_name": "Instituto Politécnico de Viana do Castelo - Escola Superior Agrária",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=3161",
+        "uni_metadata": {
+          "cnaef_code": "640 Ciências Veterinárias"
+        }
+      },
+      {
+        "uni_code": "3185",
+        "uni_name": "Instituto Politécnico de Viseu - Escola Superior Agrária de Viseu",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=3185",
+        "uni_metadata": {
+          "cnaef_code": "640 Ciências Veterinárias"
+        }
+      },
+      {
+        "uni_code": "4106",
+        "uni_name": "Escola Superior de Saúde Egas Moniz",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=4106",
+        "uni_metadata": {
+          "cnaef_code": "640 Ciências Veterinárias"
+        }
+      },
+      {
+        "uni_code": "4615",
+        "uni_name": "Instituto Politécnico da Lusofonia - Escola Superior de Saúde, Proteção e Bem-Estar Animal",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=4615",
+        "uni_metadata": {
+          "cnaef_code": "640 Ciências Veterinárias"
+        }
+      },
+      {
+        "uni_code": "4109",
+        "uni_name": "Instituto Politécnico de Saúde do Norte - CESPU - Escola Superior de Tecnologias da Saúde do Tâmega e Sousa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=4109",
+        "uni_metadata": {
+          "cnaef_code": "640 Ciências Veterinárias"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L221",
+    "degree_name": "Engenharia Aeroespacial",
+    "universities": [
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L221&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "525 Construção e Reparação de Veículos a Motor"
+        }
+      },
+      {
+        "uni_code": "1518",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L221&code=1518",
+        "uni_metadata": {
+          "cnaef_code": "525 Construção e Reparação de Veículos a Motor"
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L221&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "525 Construção e Reparação de Veículos a Motor"
+        }
+      },
+      {
+        "uni_code": "1105",
+        "uni_name": "Universidade do Porto - Faculdade de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L221&code=1105",
+        "uni_metadata": {
+          "cnaef_code": "525 Construção e Reparação de Veículos a Motor"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9740",
+    "degree_name": "Engenharia Aeronáutica",
+    "universities": [
+      {
+        "uni_code": "0400",
+        "uni_name": "Universidade da Beira Interior",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9740&code=0400",
+        "uni_metadata": {
+          "cnaef_code": "525 Construção e Reparação de Veículos a Motor"
+        }
+      },
+      {
+        "uni_code": "2710",
+        "uni_name": "Atlântica - Instituto Universitário",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9740&code=2710",
+        "uni_metadata": {
+          "cnaef_code": "525 Construção e Reparação de Veículos a Motor"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9086",
+    "degree_name": "Engenharia Agronómica",
+    "universities": [
+      {
+        "uni_code": "1515",
+        "uni_name": "Universidade de Lisboa - Instituto Superior de Agronomia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9086&code=1515",
+        "uni_metadata": {
+          "cnaef_code": "621 Produção Agrícola e Animal"
+        }
+      },
+      {
+        "uni_code": "1103",
+        "uni_name": "Universidade do Porto - Faculdade de Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9086&code=1103",
+        "uni_metadata": {
+          "cnaef_code": "621 Produção Agrícola e Animal"
+        }
+      },
+      {
+        "uni_code": "1201",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Agrárias e Veterinárias",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9086&code=1201",
+        "uni_metadata": {
+          "cnaef_code": "621 Produção Agrícola e Animal"
+        }
+      },
+      {
+        "uni_code": "3041",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior Agrária de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9086&code=3041",
+        "uni_metadata": {
+          "cnaef_code": "621 Produção Agrícola e Animal"
+        }
+      },
+      {
+        "uni_code": "3185",
+        "uni_name": "Instituto Politécnico de Viseu - Escola Superior Agrária de Viseu",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9086&code=3185",
+        "uni_metadata": {
+          "cnaef_code": "621 Produção Agrícola e Animal"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9087",
+    "degree_name": "Engenharia Alimentar",
+    "universities": [
+      {
+        "uni_code": "1515",
+        "uni_name": "Universidade de Lisboa - Instituto Superior de Agronomia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9087&code=1515",
+        "uni_metadata": {
+          "cnaef_code": "541 Indústrias Alimentares"
+        }
+      },
+      {
+        "uni_code": "3041",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior Agrária de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9087&code=3041",
+        "uni_metadata": {
+          "cnaef_code": "541 Indústrias Alimentares"
+        }
+      },
+      {
+        "uni_code": "3105",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Turismo e Tecnologia do Mar",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9087&code=3105",
+        "uni_metadata": {
+          "cnaef_code": "541 Indústrias Alimentares"
+        }
+      },
+      {
+        "uni_code": "3163",
+        "uni_name": "Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9087&code=3163",
+        "uni_metadata": {
+          "cnaef_code": "541 Indústrias Alimentares"
+        }
+      },
+      {
+        "uni_code": "3185",
+        "uni_name": "Instituto Politécnico de Viseu - Escola Superior Agrária de Viseu",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9087&code=3185",
+        "uni_metadata": {
+          "cnaef_code": "541 Indústrias Alimentares"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9099",
+    "degree_name": "Engenharia do Ambiente",
+    "universities": [
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9099&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "851 Tecnologia de Proteção do Ambiente"
+        }
+      },
+      {
+        "uni_code": "0501",
+        "uni_name": "Universidade de Coimbra - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9099&code=0501",
+        "uni_metadata": {
+          "cnaef_code": "851 Tecnologia de Proteção do Ambiente"
+        }
+      },
+      {
+        "uni_code": "1515",
+        "uni_name": "Universidade de Lisboa - Instituto Superior de Agronomia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9099&code=1515",
+        "uni_metadata": {
+          "cnaef_code": "851 Tecnologia de Proteção do Ambiente"
+        }
+      },
+      {
+        "uni_code": "1518",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9099&code=1518",
+        "uni_metadata": {
+          "cnaef_code": "851 Tecnologia de Proteção do Ambiente"
+        }
+      },
+      {
+        "uni_code": "0903",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9099&code=0903",
+        "uni_metadata": {
+          "cnaef_code": "851 Tecnologia de Proteção do Ambiente"
+        }
+      },
+      {
+        "uni_code": "1105",
+        "uni_name": "Universidade do Porto - Faculdade de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9099&code=1105",
+        "uni_metadata": {
+          "cnaef_code": "851 Tecnologia de Proteção do Ambiente"
+        }
+      },
+      {
+        "uni_code": "3021",
+        "uni_name": "Instituto Politécnico de Beja - Escola Superior Agrária",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9099&code=3021",
+        "uni_metadata": {
+          "cnaef_code": "851 Tecnologia de Proteção do Ambiente"
+        }
+      },
+      {
+        "uni_code": "3041",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior Agrária de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9099&code=3041",
+        "uni_metadata": {
+          "cnaef_code": "851 Tecnologia de Proteção do Ambiente"
+        }
+      },
+      {
+        "uni_code": "2910",
+        "uni_name": "Centro Universitário Lusófona - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9099&code=2910",
+        "uni_metadata": {
+          "cnaef_code": "851 Tecnologia de Proteção do Ambiente"
+        }
+      },
+      {
+        "uni_code": "2920",
+        "uni_name": "Centro Universitário Lusófona - Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9099&code=2920",
+        "uni_metadata": {
+          "cnaef_code": "851 Tecnologia de Proteção do Ambiente"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L164",
+    "degree_name": "Engenharia do Ambiente e Geoinformática",
+    "universities": [
+      {
+        "uni_code": "3161",
+        "uni_name": "Instituto Politécnico de Viana do Castelo - Escola Superior Agrária",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L164&code=3161",
+        "uni_metadata": {
+          "cnaef_code": "422 Ciências do Ambiente"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L202",
+    "degree_name": "Engenharia de Automação Industrial",
+    "universities": [
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L202&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9092",
+    "degree_name": "Engenharia de Automação, Controlo e Instrumentação",
+    "universities": [
+      {
+        "uni_code": "3152",
+        "uni_name": "Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9092&code=3152",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9741",
+    "degree_name": "Engenharia Automóvel",
+    "universities": [
+      {
+        "uni_code": "3102",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9741&code=3102",
+        "uni_metadata": {
+          "cnaef_code": "525 Construção e Reparação de Veículos a Motor"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9474",
+    "degree_name": "Engenharia Biológica",
+    "universities": [
+      {
+        "uni_code": "1518",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9474&code=1518",
+        "uni_metadata": {
+          "cnaef_code": "421 Biologia e Bioquímica"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9455",
+    "degree_name": "Engenharia Biomédica",
+    "universities": [
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9455&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "0501",
+        "uni_name": "Universidade de Coimbra - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9455&code=0501",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "1518",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9455&code=1518",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9455&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "0903",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9455&code=0903",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "1203",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9455&code=1203",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "3064",
+        "uni_name": "Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9455&code=3064",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "3118",
+        "uni_name": "Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9455&code=3118",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "3135",
+        "uni_name": "Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9455&code=3135",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "2910",
+        "uni_name": "Centro Universitário Lusófona - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9455&code=2910",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L204",
+    "degree_name": "Engenharia Biomédica e Biofísica",
+    "universities": [
+      {
+        "uni_code": "1503",
+        "uni_name": "Universidade de Lisboa - Faculdade de Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L204&code=1503",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L237",
+    "degree_name": "Engenharia e Biotecnologia Florestal",
+    "universities": [
+      {
+        "uni_code": "1201",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Agrárias e Veterinárias",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L237&code=1201",
+        "uni_metadata": {
+          "cnaef_code": "623 Silvicultura e Caça"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9089",
+    "degree_name": "Engenharia Civil",
+    "universities": [
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "0400",
+        "uni_name": "Universidade da Beira Interior",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=0400",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "0501",
+        "uni_name": "Universidade de Coimbra - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=0501",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "1518",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=1518",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "1307",
+        "uni_name": "Universidade da Madeira - Faculdade de Ciências Exatas e da Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=1307",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "0903",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=0903",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "1105",
+        "uni_name": "Universidade do Porto - Faculdade de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=1105",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "1203",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=1203",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "3043",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3043",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "3053",
+        "uni_name": "Instituto Politécnico de Castelo Branco - Escola Superior de Tecnologia de Castelo Branco",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3053",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "3064",
+        "uni_name": "Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3064",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "3092",
+        "uni_name": "Instituto Politécnico da Guarda - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3092",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "3102",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3102",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "3118",
+        "uni_name": "Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3118",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "3124",
+        "uni_name": "Instituto Politécnico de Portalegre - Escola Superior de Tecnologia, Gestão e Design",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3124",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "3135",
+        "uni_name": "Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3135",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "3154",
+        "uni_name": "Instituto Politécnico de Setúbal - Escola Superior de Tecnologia do Barreiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3154",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "3242",
+        "uni_name": "Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Tomar",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3242",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "3182",
+        "uni_name": "Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3182",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "3083",
+        "uni_name": "Universidade do Algarve - Instituto Superior de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3083",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "2910",
+        "uni_name": "Centro Universitário Lusófona - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=2910",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "2920",
+        "uni_name": "Centro Universitário Lusófona - Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=2920",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      },
+      {
+        "uni_code": "4020",
+        "uni_name": "Escola Superior de Actividades Imobiliárias",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=4020",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9743",
+    "degree_name": "Engenharia Civil e do Ambiente",
+    "universities": [
+      {
+        "uni_code": "3163",
+        "uni_name": "Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9743&code=3163",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9090",
+    "degree_name": "Engenharia Civil (regime noturno)",
+    "universities": [
+      {
+        "uni_code": "3154",
+        "uni_name": "Instituto Politécnico de Setúbal - Escola Superior de Tecnologia do Barreiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9090&code=3154",
+        "uni_metadata": {
+          "cnaef_code": "582 Construção Civil e Engenharia Civil"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8407",
+    "degree_name": "Engenharia da Computação Gráfica e Multimédia",
+    "universities": [
+      {
+        "uni_code": "3163",
+        "uni_name": "Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8407&code=3163",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L223",
+    "degree_name": "Engenharia Computacional",
+    "universities": [
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L223&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "520 Engenharia e Técnicas Afins"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L217",
+    "degree_name": "Engenharia de Computadores e Informática",
+    "universities": [
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L217&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "480 Informática"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L208",
+    "degree_name": "Engenharia de Computadores",
+    "universities": [
+      {
+        "uni_code": "1307",
+        "uni_name": "Universidade da Madeira - Faculdade de Ciências Exatas e da Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L208&code=1307",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L263",
+    "degree_name": "Engenharia e Design Industrial",
+    "universities": [
+      {
+        "uni_code": "4292",
+        "uni_name": "Instituto Superior D. Dinis",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L263&code=4292",
+        "uni_metadata": {
+          "cnaef_code": "520 Engenharia e Técnicas Afins"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L192",
+    "degree_name": "Engenharia e Ciência de Dados",
+    "universities": [
+      {
+        "uni_code": "0501",
+        "uni_name": "Universidade de Coimbra - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L192&code=0501",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L110",
+    "degree_name": "Engenharia Eletrónica e de Telecomunicações",
+    "universities": [
+      {
+        "uni_code": "2100",
+        "uni_name": "Universidade Autónoma de Lisboa Luís de Camões",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L110&code=2100",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9105",
+    "degree_name": "Engenharia Eletromecânica",
+    "universities": [
+      {
+        "uni_code": "0400",
+        "uni_name": "Universidade da Beira Interior",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9105&code=0400",
+        "uni_metadata": {
+          "cnaef_code": "522 Eletricidade e Energia"
+        }
+      },
+      {
+        "uni_code": "3064",
+        "uni_name": "Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9105&code=3064",
+        "uni_metadata": {
+          "cnaef_code": "522 Eletricidade e Energia"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9912",
+    "degree_name": "Engenharia Eletrónica",
+    "universities": [
+      {
+        "uni_code": "1519",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico (Tagus Park)",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9912&code=1519",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9106",
+    "degree_name": "Engenharia Eletrónica e de Automação",
+    "universities": [
+      {
+        "uni_code": "4442",
+        "uni_name": "Instituto Superior Politécnico Gaya - Escola Superior de Ciência e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9106&code=4442",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L218",
+    "degree_name": "Engenharia Eletrónica Industrial e Computadores",
+    "universities": [
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L218&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9547",
+    "degree_name": "Engenharia Eletrónica e Informática",
+    "universities": [
+      {
+        "uni_code": "2450",
+        "uni_name": "Universidade Lusíada - Centro Universitário Lusíada - Norte - Vila Nova de Famalicão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9547&code=2450",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9107",
+    "degree_name": "Engenharia Eletrónica e Telecomunicações",
+    "universities": [
+      {
+        "uni_code": "1307",
+        "uni_name": "Universidade da Madeira - Faculdade de Ciências Exatas e da Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9107&code=1307",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9108",
+    "degree_name": "Engenharia Eletrónica e Telecomunicações e de Computadores",
+    "universities": [
+      {
+        "uni_code": "3118",
+        "uni_name": "Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9108&code=3118",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9109",
+    "degree_name": "Engenharia Eletrotécnica",
+    "universities": [
+      {
+        "uni_code": "3118",
+        "uni_name": "Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9109&code=3118",
+        "uni_metadata": {
+          "cnaef_code": "522 Eletricidade e Energia"
+        }
+      },
+      {
+        "uni_code": "3182",
+        "uni_name": "Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9109&code=3182",
+        "uni_metadata": {
+          "cnaef_code": "522 Eletricidade e Energia"
+        }
+      },
+      {
+        "uni_code": "2910",
+        "uni_name": "Centro Universitário Lusófona - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9109&code=2910",
+        "uni_metadata": {
+          "cnaef_code": "522 Eletricidade e Energia"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9112",
+    "degree_name": "Engenharia Eletrotécnica e de Computadores",
+    "universities": [
+      {
+        "uni_code": "0400",
+        "uni_name": "Universidade da Beira Interior",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9112&code=0400",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3043",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9112&code=3043",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3032",
+        "uni_name": "Instituto Politécnico do Cávado e do Ave - Escola Superior de Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9112&code=3032",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3102",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9112&code=3102",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3135",
+        "uni_name": "Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9112&code=3135",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3152",
+        "uni_name": "Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9112&code=3152",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3242",
+        "uni_name": "Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Tomar",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9112&code=3242",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L209",
+    "degree_name": "Engenharia Eletrotécnica e de Computadores",
+    "universities": [
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L209&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "0501",
+        "uni_name": "Universidade de Coimbra - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L209&code=0501",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "1518",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L209&code=1518",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "0903",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L209&code=0903",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "1105",
+        "uni_name": "Universidade do Porto - Faculdade de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L209&code=1105",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "1203",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L209&code=1203",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3064",
+        "uni_name": "Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L209&code=3064",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3083",
+        "uni_name": "Universidade do Algarve - Instituto Superior de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L209&code=3083",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L266",
+    "degree_name": "Engenharia Eletrotécnica e de Computadores (regime noturno)",
+    "universities": [
+      {
+        "uni_code": "3102",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L266&code=3102",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L118",
+    "degree_name": "Engenharia Eletrotécnica Marítima",
+    "universities": [
+      {
+        "uni_code": "7105",
+        "uni_name": "Escola Superior Náutica Infante D. Henrique",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L118&code=7105",
+        "uni_metadata": {
+          "cnaef_code": "522 Eletricidade e Energia"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L238",
+    "degree_name": "Engenharia Eletrotécnica Militar",
+    "universities": [
+      {
+        "uni_code": "7711",
+        "uni_name": "Instituto Universitário Militar - Academia Militar",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L238&code=7711",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9110",
+    "degree_name": "Engenharia Eletrotécnica - Sistemas Elétricos de Energia",
+    "universities": [
+      {
+        "uni_code": "3135",
+        "uni_name": "Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9110&code=3135",
+        "uni_metadata": {
+          "cnaef_code": "522 Eletricidade e Energia"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8277",
+    "degree_name": "Engenharia Eletrotécnica de Sistemas de Energia",
+    "universities": [
+      {
+        "uni_code": "2920",
+        "uni_name": "Centro Universitário Lusófona - Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8277&code=2920",
+        "uni_metadata": {
+          "cnaef_code": "522 Eletricidade e Energia"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9111",
+    "degree_name": "Engenharia Eletrotécnica e das Telecomunicações",
+    "universities": [
+      {
+        "uni_code": "3053",
+        "uni_name": "Instituto Politécnico de Castelo Branco - Escola Superior de Tecnologia de Castelo Branco",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9111&code=3053",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8311",
+    "degree_name": "Engenharia em Desenvolvimento de Jogos Digitais",
+    "universities": [
+      {
+        "uni_code": "3032",
+        "uni_name": "Instituto Politécnico do Cávado e do Ave - Escola Superior de Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8311&code=3032",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9648",
+    "degree_name": "Engenharia da Energia e do Ambiente",
+    "universities": [
+      {
+        "uni_code": "3102",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9648&code=3102",
+        "uni_metadata": {
+          "cnaef_code": "851 Tecnologia de Proteção do Ambiente"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L214",
+    "degree_name": "Engenharia da Energia e Ambiente",
+    "universities": [
+      {
+        "uni_code": "1503",
+        "uni_name": "Universidade de Lisboa - Faculdade de Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L214&code=1503",
+        "uni_metadata": {
+          "cnaef_code": "851 Tecnologia de Proteção do Ambiente"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8463",
+    "degree_name": "Engenharia das Energias Renováveis",
+    "universities": [
+      {
+        "uni_code": "3053",
+        "uni_name": "Instituto Politécnico de Castelo Branco - Escola Superior de Tecnologia de Castelo Branco",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8463&code=3053",
+        "uni_metadata": {
+          "cnaef_code": "522 Eletricidade e Energia"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9910",
+    "degree_name": "Engenharia de Energias Renováveis",
+    "universities": [
+      {
+        "uni_code": "0602",
+        "uni_name": "Universidade de Évora - Escola de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9910&code=0602",
+        "uni_metadata": {
+          "cnaef_code": "522 Eletricidade e Energia"
+        }
+      },
+      {
+        "uni_code": "3043",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9910&code=3043",
+        "uni_metadata": {
+          "cnaef_code": "522 Eletricidade e Energia"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9113",
+    "degree_name": "Engenharia Física",
+    "universities": [
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9113&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "441 Física"
+        }
+      },
+      {
+        "uni_code": "0501",
+        "uni_name": "Universidade de Coimbra - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9113&code=0501",
+        "uni_metadata": {
+          "cnaef_code": "441 Física"
+        }
+      },
+      {
+        "uni_code": "1503",
+        "uni_name": "Universidade de Lisboa - Faculdade de Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9113&code=1503",
+        "uni_metadata": {
+          "cnaef_code": "441 Física"
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9113&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "441 Física"
+        }
+      },
+      {
+        "uni_code": "0903",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9113&code=0903",
+        "uni_metadata": {
+          "cnaef_code": "441 Física"
+        }
+      },
+      {
+        "uni_code": "1103",
+        "uni_name": "Universidade do Porto - Faculdade de Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9113&code=1103",
+        "uni_metadata": {
+          "cnaef_code": "441 Física"
+        }
+      },
+      {
+        "uni_code": "1203",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9113&code=1203",
+        "uni_metadata": {
+          "cnaef_code": "441 Física"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L213",
+    "degree_name": "Engenharia Física Aplicada",
+    "universities": [
+      {
+        "uni_code": "3118",
+        "uni_name": "Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L213&code=3118",
+        "uni_metadata": {
+          "cnaef_code": "520 Engenharia e Técnicas Afins"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L233",
+    "degree_name": "Engenharia Física Tecnológica",
+    "universities": [
+      {
+        "uni_code": "1518",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L233&code=1518",
+        "uni_metadata": {
+          "cnaef_code": "441 Física"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8377",
+    "degree_name": "Engenharia Florestal e dos Recursos Naturais",
+    "universities": [
+      {
+        "uni_code": "1515",
+        "uni_name": "Universidade de Lisboa - Instituto Superior de Agronomia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8377&code=1515",
+        "uni_metadata": {
+          "cnaef_code": "623 Silvicultura e Caça"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L096",
+    "degree_name": "Engenharia Geoespacial",
+    "universities": [
+      {
+        "uni_code": "1503",
+        "uni_name": "Universidade de Lisboa - Faculdade de Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L096&code=1503",
+        "uni_metadata": {
+          "cnaef_code": "443 Ciências da Terra"
+        }
+      },
+      {
+        "uni_code": "1103",
+        "uni_name": "Universidade do Porto - Faculdade de Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L096&code=1103",
+        "uni_metadata": {
+          "cnaef_code": "443 Ciências da Terra"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9116",
+    "degree_name": "Engenharia Geológica",
+    "universities": [
+      {
+        "uni_code": "0903",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9116&code=0903",
+        "uni_metadata": {
+          "cnaef_code": "443 Ciências da Terra"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9117",
+    "degree_name": "Engenharia Geotécnica e Geoambiente",
+    "universities": [
+      {
+        "uni_code": "3135",
+        "uni_name": "Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9117&code=3135",
+        "uni_metadata": {
+          "cnaef_code": "544 Indústrias Extrativas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9104",
+    "degree_name": "Engenharia e Gestão Industrial",
+    "universities": [
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "0400",
+        "uni_name": "Universidade da Beira Interior",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=0400",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "0501",
+        "uni_name": "Universidade de Coimbra - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=0501",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "1519",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico (Tagus Park)",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=1519",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "0903",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=0903",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "1105",
+        "uni_name": "Universidade do Porto - Faculdade de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=1105",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "1203",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=1203",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "3043",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=3043",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "3053",
+        "uni_name": "Instituto Politécnico de Castelo Branco - Escola Superior de Tecnologia de Castelo Branco",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=3053",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "3032",
+        "uni_name": "Instituto Politécnico do Cávado e do Ave - Escola Superior de Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=3032",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "3064",
+        "uni_name": "Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=3064",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "3102",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=3102",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "3135",
+        "uni_name": "Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=3135",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "2910",
+        "uni_name": "Centro Universitário Lusófona - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=2910",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "2450",
+        "uni_name": "Universidade Lusíada - Centro Universitário Lusíada - Norte - Vila Nova de Famalicão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=2450",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      },
+      {
+        "uni_code": "2500",
+        "uni_name": "Universidade Portucalense Infante D. Henrique",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=2500",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L320",
+    "degree_name": "Engenharia e Gestão da Produção Aeronáutica",
+    "universities": [
+      {
+        "uni_code": "4292",
+        "uni_name": "Instituto Superior D. Dinis",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L320&code=4292",
+        "uni_metadata": {
+          "cnaef_code": "520 Engenharia e Técnicas Afins"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L225",
+    "degree_name": "Engenharia e Gestão da Produção de Moldes",
+    "universities": [
+      {
+        "uni_code": "4292",
+        "uni_name": "Instituto Superior D. Dinis",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L225&code=4292",
+        "uni_metadata": {
+          "cnaef_code": "520 Engenharia e Técnicas Afins"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L215",
+    "degree_name": "Engenharia e Gestão de Sistemas de Informação",
+    "universities": [
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L215&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L328",
+    "degree_name": "Engenharia e Gestão da Tecnologia Industrial",
+    "universities": [
+      {
+        "uni_code": "4292",
+        "uni_name": "Instituto Superior D. Dinis",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L328&code=4292",
+        "uni_metadata": {
+          "cnaef_code": "520 Engenharia e Técnicas Afins"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9119",
+    "degree_name": "Engenharia Informática",
+    "universities": [
+      {
+        "uni_code": "6800",
+        "uni_name": "ISCTE - Instituto Universitário de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=6800",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "0203",
+        "uni_name": "Universidade do Algarve - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=0203",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "0400",
+        "uni_name": "Universidade da Beira Interior",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=0400",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "0501",
+        "uni_name": "Universidade de Coimbra - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=0501",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "0602",
+        "uni_name": "Universidade de Évora - Escola de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=0602",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "1503",
+        "uni_name": "Universidade de Lisboa - Faculdade de Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=1503",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "1307",
+        "uni_name": "Universidade da Madeira - Faculdade de Ciências Exatas e da Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=1307",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "0903",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=0903",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "1203",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=1203",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3023",
+        "uni_name": "Instituto Politécnico de Beja - Escola Superior de Tecnologia e de Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3023",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3043",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3043",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3053",
+        "uni_name": "Instituto Politécnico de Castelo Branco - Escola Superior de Tecnologia de Castelo Branco",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3053",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3065",
+        "uni_name": "Instituto Politécnico de Coimbra - Escola Superior de Tecnologia e Gestão de Oliveira do Hospital",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3065",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3064",
+        "uni_name": "Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3064",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3092",
+        "uni_name": "Instituto Politécnico da Guarda - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3092",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3102",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3102",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3124",
+        "uni_name": "Instituto Politécnico de Portalegre - Escola Superior de Tecnologia, Gestão e Design",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3124",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3138",
+        "uni_name": "Instituto Politécnico do Porto - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3138",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3135",
+        "uni_name": "Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3135",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3152",
+        "uni_name": "Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3152",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3242",
+        "uni_name": "Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Tomar",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3242",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3163",
+        "uni_name": "Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3163",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3182",
+        "uni_name": "Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3182",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "2910",
+        "uni_name": "Centro Universitário Lusófona - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=2910",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "2920",
+        "uni_name": "Centro Universitário Lusófona - Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=2920",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "4375",
+        "uni_name": "Instituto Superior Manuel Teixeira Gomes",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=4375",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "2100",
+        "uni_name": "Universidade Autónoma de Lisboa Luís de Camões",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=2100",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "4350",
+        "uni_name": "Universidade Europeia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=4350",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "2750",
+        "uni_name": "Universidade Fernando Pessoa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=2750",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "2410",
+        "uni_name": "Universidade Lusíada - Centro Universitário Lusíada - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=2410",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "2500",
+        "uni_name": "Universidade Portucalense Infante D. Henrique",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=2500",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "4602",
+        "uni_name": "Instituto Politécnico Jean Piaget do Sul - Escola Superior de Tecnologia e Gestão Jean Piaget",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=4602",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "4442",
+        "uni_name": "Instituto Superior Politécnico Gaya - Escola Superior de Ciência e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=4442",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "4530",
+        "uni_name": "Instituto Superior de Tecnologias Avançadas de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=4530",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "4640",
+        "uni_name": "Instituto Superior de Tecnologias Avançadas do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=4640",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "4572",
+        "uni_name": "ISLA - Instituto Politécnico de Gestão e Tecnologia - Escola Superior de Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=4572",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9770",
+    "degree_name": "Engenharia Informática (Curso Europeu)",
+    "universities": [
+      {
+        "uni_code": "3064",
+        "uni_name": "Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9770&code=3064",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L293",
+    "degree_name": "Engenharia Informática e Aplicações",
+    "universities": [
+      {
+        "uni_code": "4613",
+        "uni_name": "Instituto Politécnico da Lusofonia - Escola Superior de Engenharia e Tecnologias",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L293&code=4613",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L346",
+    "degree_name": "Engenharia Informática Aplicada",
+    "universities": [
+      {
+        "uni_code": "3012",
+        "uni_name": "Universidade de Aveiro - Escola Superior de Tecnologia e Gestão de Águeda",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L346&code=3012",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L224",
+    "degree_name": "Engenharia Informática e Computação",
+    "universities": [
+      {
+        "uni_code": "1105",
+        "uni_name": "Universidade do Porto - Faculdade de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L224&code=1105",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9121",
+    "degree_name": "Engenharia Informática e de Computadores",
+    "universities": [
+      {
+        "uni_code": "1518",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9121&code=1518",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "1519",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico (Tagus Park)",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9121&code=1519",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "7105",
+        "uni_name": "Escola Superior Náutica Infante D. Henrique",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9121&code=7105",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3118",
+        "uni_name": "Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9121&code=3118",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L181",
+    "degree_name": "Engenharia Informática Médica",
+    "universities": [
+      {
+        "uni_code": "3032",
+        "uni_name": "Instituto Politécnico do Cávado e do Ave - Escola Superior de Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L181&code=3032",
+        "uni_metadata": {
+          "cnaef_code": "520 Engenharia e Técnicas Afins"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L052",
+    "degree_name": "Engenharia Informática e Multimédia",
+    "universities": [
+      {
+        "uni_code": "3118",
+        "uni_name": "Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L052&code=3118",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L119",
+    "degree_name": "Engenharia Informática, Redes e Telecomunicações",
+    "universities": [
+      {
+        "uni_code": "3118",
+        "uni_name": "Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L119&code=3118",
+        "uni_metadata": {
+          "cnaef_code": "480 Informática"
+        }
+      },
+      {
+        "uni_code": "2910",
+        "uni_name": "Centro Universitário Lusófona - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L119&code=2910",
+        "uni_metadata": {
+          "cnaef_code": "480 Informática"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9885",
+    "degree_name": "Engenharia Informática (regime pós-laboral)",
+    "universities": [
+      {
+        "uni_code": "6800",
+        "uni_name": "ISCTE - Instituto Universitário de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9885&code=6800",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3064",
+        "uni_name": "Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9885&code=3064",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3102",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9885&code=3102",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9122",
+    "degree_name": "Engenharia Informática e Telecomunicações",
+    "universities": [
+      {
+        "uni_code": "3186",
+        "uni_name": "Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Lamego",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9122&code=3186",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9745",
+    "degree_name": "Engenharia de Máquinas Marítimas",
+    "universities": [
+      {
+        "uni_code": "7105",
+        "uni_name": "Escola Superior Náutica Infante D. Henrique",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9745&code=7105",
+        "uni_metadata": {
+          "cnaef_code": "525 Construção e Reparação de Veículos a Motor"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9096",
+    "degree_name": "Engenharia de Materiais",
+    "universities": [
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9096&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "543 Materiais (Indústrias da Madeira, Cortiça, Papel, Plástico, Vidro e outros)"
+        }
+      },
+      {
+        "uni_code": "1518",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9096&code=1518",
+        "uni_metadata": {
+          "cnaef_code": "543 Materiais (Indústrias da Madeira, Cortiça, Papel, Plástico, Vidro e outros)"
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9096&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "543 Materiais (Indústrias da Madeira, Cortiça, Papel, Plástico, Vidro e outros)"
+        }
+      },
+      {
+        "uni_code": "0903",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9096&code=0903",
+        "uni_metadata": {
+          "cnaef_code": "543 Materiais (Indústrias da Madeira, Cortiça, Papel, Plástico, Vidro e outros)"
+        }
+      },
+      {
+        "uni_code": "1105",
+        "uni_name": "Universidade do Porto - Faculdade de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9096&code=1105",
+        "uni_metadata": {
+          "cnaef_code": "543 Materiais (Indústrias da Madeira, Cortiça, Papel, Plástico, Vidro e outros)"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9123",
+    "degree_name": "Engenharia Mecânica",
+    "universities": [
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "0501",
+        "uni_name": "Universidade de Coimbra - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=0501",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "1518",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=1518",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "0903",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=0903",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "1105",
+        "uni_name": "Universidade do Porto - Faculdade de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=1105",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "1203",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=1203",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "3043",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3043",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "3064",
+        "uni_name": "Instituto Politécnico de Coimbra - Instituto Superior de Engenharia de Coimbra",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3064",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "3102",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3102",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "3118",
+        "uni_name": "Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3118",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "3135",
+        "uni_name": "Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3135",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "3152",
+        "uni_name": "Instituto Politécnico de Setúbal - Escola Superior de Tecnologia de Setúbal",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3152",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "3243",
+        "uni_name": "Instituto Politécnico de Tomar - Escola Superior de Tecnologia de Abrantes",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3243",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "3163",
+        "uni_name": "Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3163",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "3182",
+        "uni_name": "Instituto Politécnico de Viseu - Escola Superior de Tecnologia e Gestão de Viseu",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3182",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "3083",
+        "uni_name": "Universidade do Algarve - Instituto Superior de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3083",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "2710",
+        "uni_name": "Atlântica - Instituto Universitário",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=2710",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "2450",
+        "uni_name": "Universidade Lusíada - Centro Universitário Lusíada - Norte - Vila Nova de Famalicão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=2450",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      },
+      {
+        "uni_code": "4442",
+        "uni_name": "Instituto Superior Politécnico Gaya - Escola Superior de Ciência e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=4442",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9936",
+    "degree_name": "Engenharia Mecânica Automóvel",
+    "universities": [
+      {
+        "uni_code": "3135",
+        "uni_name": "Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9936&code=3135",
+        "uni_metadata": {
+          "cnaef_code": "525 Construção e Reparação de Veículos a Motor"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L295",
+    "degree_name": "Engenharia Mecânica Computacional",
+    "universities": [
+      {
+        "uni_code": "0400",
+        "uni_name": "Universidade da Beira Interior",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L295&code=0400",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L222",
+    "degree_name": "Engenharia Mecânica Militar",
+    "universities": [
+      {
+        "uni_code": "7711",
+        "uni_name": "Instituto Universitário Militar - Academia Militar",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L222&code=7711",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9886",
+    "degree_name": "Engenharia Mecânica (regime pós-laboral)",
+    "universities": [
+      {
+        "uni_code": "3102",
+        "uni_name": "Instituto Politécnico de Leiria - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9886&code=3102",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9751",
+    "degree_name": "Engenharia Mecatrónica",
+    "universities": [
+      {
+        "uni_code": "0602",
+        "uni_name": "Universidade de Évora - Escola de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9751&code=0602",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3163",
+        "uni_name": "Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9751&code=3163",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L231",
+    "degree_name": "Engenharia de Micro e Nanotecnologias",
+    "universities": [
+      {
+        "uni_code": "0903",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L231&code=0903",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L228",
+    "degree_name": "Engenharia Militar",
+    "universities": [
+      {
+        "uni_code": "7711",
+        "uni_name": "Instituto Universitário Militar - Academia Militar",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L228&code=7711",
+        "uni_metadata": {
+          "cnaef_code": "863 Segurança Militar"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L236",
+    "degree_name": "Engenharia de Minas e Geo-Ambiente",
+    "universities": [
+      {
+        "uni_code": "1105",
+        "uni_name": "Universidade do Porto - Faculdade de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L236&code=1105",
+        "uni_metadata": {
+          "cnaef_code": "544 Indústrias Extrativas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L239",
+    "degree_name": "Engenharia de Minas e Recursos Energéticos",
+    "universities": [
+      {
+        "uni_code": "1518",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L239&code=1518",
+        "uni_metadata": {
+          "cnaef_code": "544 Indústrias Extrativas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9124",
+    "degree_name": "Engenharia Multimédia",
+    "universities": [
+      {
+        "uni_code": "4530",
+        "uni_name": "Instituto Superior de Tecnologias Avançadas de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9124&code=4530",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas"
+        }
+      },
+      {
+        "uni_code": "4640",
+        "uni_name": "Instituto Superior de Tecnologias Avançadas do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9124&code=4640",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L162",
+    "degree_name": "Engenharia Naval e Oceânica",
+    "universities": [
+      {
+        "uni_code": "1518",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L162&code=1518",
+        "uni_metadata": {
+          "cnaef_code": "525 Construção e Reparação de Veículos a Motor"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L229",
+    "degree_name": "Engenharia de Polímeros",
+    "universities": [
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L229&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "543 Materiais (Indústrias da Madeira, Cortiça, Papel, Plástico, Vidro e outros)"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L309",
+    "degree_name": "Engenharia de Produção de Biocombustíveis",
+    "universities": [
+      {
+        "uni_code": "3124",
+        "uni_name": "Instituto Politécnico de Portalegre - Escola Superior de Tecnologia, Gestão e Design",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L309&code=3124",
+        "uni_metadata": {
+          "cnaef_code": "522 Eletricidade e Energia"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9097",
+    "degree_name": "Engenharia de Produção Industrial",
+    "universities": [
+      {
+        "uni_code": "4283",
+        "uni_name": "Instituto Superior de Entre Douro e Vouga",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9097&code=4283",
+        "uni_metadata": {
+          "cnaef_code": "521 Metalurgia e Metalomecânica"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8397",
+    "degree_name": "Engenharia de Proteção Civil",
+    "universities": [
+      {
+        "uni_code": "3051",
+        "uni_name": "Instituto Politécnico de Castelo Branco - Escola Superior Agrária de Castelo Branco",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8397&code=3051",
+        "uni_metadata": {
+          "cnaef_code": "861 Proteção de Pessoas e Bens"
+        }
+      },
+      {
+        "uni_code": "2920",
+        "uni_name": "Centro Universitário Lusófona - Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8397&code=2920",
+        "uni_metadata": {
+          "cnaef_code": "861 Proteção de Pessoas e Bens"
+        }
+      },
+      {
+        "uni_code": "4298",
+        "uni_name": "ISEC Lisboa - Instituto Superior de Educação e Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8397&code=4298",
+        "uni_metadata": {
+          "cnaef_code": "861 Proteção de Pessoas e Bens"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9125",
+    "degree_name": "Engenharia Química",
+    "universities": [
+      {
+        "uni_code": "0300",
+        "uni_name": "Universidade de Aveiro",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9125&code=0300",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "0501",
+        "uni_name": "Universidade de Coimbra - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9125&code=0501",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "1518",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9125&code=1518",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "1105",
+        "uni_name": "Universidade do Porto - Faculdade de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9125&code=1105",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "3043",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior de Tecnologia e de Gestão de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9125&code=3043",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "3135",
+        "uni_name": "Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9125&code=3135",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9126",
+    "degree_name": "Engenharia Química e Biológica",
+    "universities": [
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9126&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "0903",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9126&code=0903",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      },
+      {
+        "uni_code": "3118",
+        "uni_name": "Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9126&code=3118",
+        "uni_metadata": {
+          "cnaef_code": "524 Tecnologia dos Processos Químicos"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L322",
+    "degree_name": "Engenharia de Redes e Segurança Informática",
+    "universities": [
+      {
+        "uni_code": "4530",
+        "uni_name": "Instituto Superior de Tecnologias Avançadas de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L322&code=4530",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L153",
+    "degree_name": "Engenharia de Redes e Sistemas de Computadores",
+    "universities": [
+      {
+        "uni_code": "3163",
+        "uni_name": "Instituto Politécnico de Viana do Castelo - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L153&code=3163",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8187",
+    "degree_name": "Engenharia da Segurança do Trabalho",
+    "universities": [
+      {
+        "uni_code": "4572",
+        "uni_name": "ISLA - Instituto Politécnico de Gestão e Tecnologia - Escola Superior de Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8187&code=4572",
+        "uni_metadata": {
+          "cnaef_code": "862 Segurança e Higiene no Trabalho"
+        }
+      },
+      {
+        "uni_code": "4352",
+        "uni_name": "ISLA - Instituto Superior de Gestão e Administração de Santarém",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8187&code=4352",
+        "uni_metadata": {
+          "cnaef_code": "862 Segurança e Higiene no Trabalho"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8316",
+    "degree_name": "Engenharia de Sistemas",
+    "universities": [
+      {
+        "uni_code": "3135",
+        "uni_name": "Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8316&code=3135",
+        "uni_metadata": {
+          "cnaef_code": "529 Engenharia e Técnicas Afins - programas não classificados noutra área de formação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8409",
+    "degree_name": "Engenharia de Sistemas Informáticos",
+    "universities": [
+      {
+        "uni_code": "3032",
+        "uni_name": "Instituto Politécnico do Cávado e do Ave - Escola Superior de Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8409&code=3032",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8417",
+    "degree_name": "Engenharia de Sistemas Informáticos (regime pós-laboral)",
+    "universities": [
+      {
+        "uni_code": "3032",
+        "uni_name": "Instituto Politécnico do Cávado e do Ave - Escola Superior de Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8417&code=3032",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L269",
+    "degree_name": "Engenharia de Sistemas e Tecnologias Informáticas",
+    "universities": [
+      {
+        "uni_code": "3083",
+        "uni_name": "Universidade do Algarve - Instituto Superior de Engenharia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L269&code=3083",
+        "uni_metadata": {
+          "cnaef_code": "481 Ciências Informáticas"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9098",
+    "degree_name": "Engenharia de Telecomunicações e Informática",
+    "universities": [
+      {
+        "uni_code": "6800",
+        "uni_name": "ISCTE - Instituto Universitário de Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9098&code=6800",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "1519",
+        "uni_name": "Universidade de Lisboa - Instituto Superior Técnico (Tagus Park)",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9098&code=1519",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9098&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      },
+      {
+        "uni_code": "3135",
+        "uni_name": "Instituto Politécnico do Porto - Instituto Superior de Engenharia do Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9098&code=3135",
+        "uni_metadata": {
+          "cnaef_code": "523 Eletrónica e Automação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9127",
+    "degree_name": "Engenharia Têxtil",
+    "universities": [
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9127&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "542 Indústrias do Têxtil, Vestuário, Calçado e Couro"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9128",
+    "degree_name": "Engenharia Topográfica",
+    "universities": [
+      {
+        "uni_code": "3092",
+        "uni_name": "Instituto Politécnico da Guarda - Escola Superior de Tecnologia e Gestão",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9128&code=3092",
+        "uni_metadata": {
+          "cnaef_code": "581 Arquitetura e Urbanismo"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9129",
+    "degree_name": "Engenharia Zootécnica",
+    "universities": [
+      {
+        "uni_code": "1515",
+        "uni_name": "Universidade de Lisboa - Instituto Superior de Agronomia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9129&code=1515",
+        "uni_metadata": {
+          "cnaef_code": "621 Produção Agrícola e Animal"
+        }
+      },
+      {
+        "uni_code": "1201",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Agrárias e Veterinárias",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9129&code=1201",
+        "uni_metadata": {
+          "cnaef_code": "621 Produção Agrícola e Animal"
+        }
+      },
+      {
+        "uni_code": "3041",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior Agrária de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9129&code=3041",
+        "uni_metadata": {
+          "cnaef_code": "621 Produção Agrícola e Animal"
+        }
+      },
+      {
+        "uni_code": "3185",
+        "uni_name": "Instituto Politécnico de Viseu - Escola Superior Agrária de Viseu",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9129&code=3185",
+        "uni_metadata": {
+          "cnaef_code": "621 Produção Agrícola e Animal"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9752",
+    "degree_name": "Enologia",
+    "universities": [
+      {
+        "uni_code": "0602",
+        "uni_name": "Universidade de Évora - Escola de Ciências e Tecnologia",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9752&code=0602",
+        "uni_metadata": {
+          "cnaef_code": "541 Indústrias Alimentares"
+        }
+      },
+      {
+        "uni_code": "1201",
+        "uni_name": "Universidade de Trás-os-Montes e Alto Douro - Escola de Ciências Agrárias e Veterinárias",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9752&code=1201",
+        "uni_metadata": {
+          "cnaef_code": "541 Indústrias Alimentares"
+        }
+      },
+      {
+        "uni_code": "3041",
+        "uni_name": "Instituto Politécnico de Bragança - Escola Superior Agrária de Bragança",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9752&code=3041",
+        "uni_metadata": {
+          "cnaef_code": "541 Indústrias Alimentares"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9130",
+    "degree_name": "Equinicultura",
+    "universities": [
+      {
+        "uni_code": "3125",
+        "uni_name": "Instituto Politécnico de Portalegre - Escola Superior de Biociências de Elvas",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9130&code=3125",
+        "uni_metadata": {
+          "cnaef_code": "621 Produção Agrícola e Animal"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9754",
+    "degree_name": "Escultura",
+    "universities": [
+      {
+        "uni_code": "1502",
+        "uni_name": "Universidade de Lisboa - Faculdade de Belas-Artes",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9754&code=1502",
+        "uni_metadata": {
+          "cnaef_code": "211 Belas-Artes"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9381",
+    "degree_name": "Estatística Aplicada",
+    "universities": [
+      {
+        "uni_code": "1503",
+        "uni_name": "Universidade de Lisboa - Faculdade de Ciências",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9381&code=1503",
+        "uni_metadata": {
+          "cnaef_code": "462 Estatística"
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9381&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "462 Estatística"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9131",
+    "degree_name": "Estudos Africanos",
+    "universities": [
+      {
+        "uni_code": "1506",
+        "uni_name": "Universidade de Lisboa - Faculdade de Letras",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9131&code=1506",
+        "uni_metadata": {
+          "cnaef_code": "312 Sociologia e Outros Estudos"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9132",
+    "degree_name": "Estudos Artísticos",
+    "universities": [
+      {
+        "uni_code": "0505",
+        "uni_name": "Universidade de Coimbra - Faculdade de Letras",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9132&code=0505",
+        "uni_metadata": {
+          "cnaef_code": "212 Artes do Espetáculo"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8104",
+    "degree_name": "Estudos Artísticos, variante de Artes do Espetáculo",
+    "universities": [
+      {
+        "uni_code": "1506",
+        "uni_name": "Universidade de Lisboa - Faculdade de Letras",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8104&code=1506",
+        "uni_metadata": {
+          "cnaef_code": "212 Artes do Espetáculo"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9914",
+    "degree_name": "Estudos Asiáticos",
+    "universities": [
+      {
+        "uni_code": "1506",
+        "uni_name": "Universidade de Lisboa - Faculdade de Letras",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9914&code=1506",
+        "uni_metadata": {
+          "cnaef_code": "312 Sociologia e Outros Estudos"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9133",
+    "degree_name": "Estudos Clássicos",
+    "universities": [
+      {
+        "uni_code": "0505",
+        "uni_name": "Universidade de Coimbra - Faculdade de Letras",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9133&code=0505",
+        "uni_metadata": {
+          "cnaef_code": "222 Línguas e Literaturas Estrangeiras"
+        }
+      },
+      {
+        "uni_code": "1506",
+        "uni_name": "Universidade de Lisboa - Faculdade de Letras",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9133&code=1506",
+        "uni_metadata": {
+          "cnaef_code": "222 Línguas e Literaturas Estrangeiras"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L097",
+    "degree_name": "Estudos Comparatistas",
+    "universities": [
+      {
+        "uni_code": "1506",
+        "uni_name": "Universidade de Lisboa - Faculdade de Letras",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L097&code=1506",
+        "uni_metadata": {
+          "cnaef_code": "222 Línguas e Literaturas Estrangeiras"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L150",
+    "degree_name": "Estudos de Cultura",
+    "universities": [
+      {
+        "uni_code": "1306",
+        "uni_name": "Universidade da Madeira - Faculdade de Artes e Humanidades",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L150&code=1306",
+        "uni_metadata": {
+          "cnaef_code": "312 Sociologia e Outros Estudos"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L288",
+    "degree_name": "Estudos de Cultura e Comunicação Intercultural",
+    "universities": [
+      {
+        "uni_code": "1506",
+        "uni_name": "Universidade de Lisboa - Faculdade de Letras",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L288&code=1506",
+        "uni_metadata": {
+          "cnaef_code": "312 Sociologia e Outros Estudos"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9134",
+    "degree_name": "Estudos Culturais",
+    "universities": [
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9134&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "229 Humanidades - programas não classificados noutra área de formação"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9135",
+    "degree_name": "Estudos Europeus",
+    "universities": [
+      {
+        "uni_code": "0150",
+        "uni_name": "Universidade dos Açores - Faculdade de Ciências Sociais e Humanas",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9135&code=0150",
+        "uni_metadata": {
+          "cnaef_code": "312 Sociologia e Outros Estudos"
+        }
+      },
+      {
+        "uni_code": "0505",
+        "uni_name": "Universidade de Coimbra - Faculdade de Letras",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9135&code=0505",
+        "uni_metadata": {
+          "cnaef_code": "312 Sociologia e Outros Estudos"
+        }
+      },
+      {
+        "uni_code": "1506",
+        "uni_name": "Universidade de Lisboa - Faculdade de Letras",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9135&code=1506",
+        "uni_metadata": {
+          "cnaef_code": "312 Sociologia e Outros Estudos"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8378",
+    "degree_name": "Estudos Europeus, Estudos Lusófonos e Relações Internacionais",
+    "universities": [
+      {
+        "uni_code": "2920",
+        "uni_name": "Centro Universitário Lusófona - Porto",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8378&code=2920",
+        "uni_metadata": {
+          "cnaef_code": "313 Ciência Política e Cidadania"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9136",
+    "degree_name": "Estudos Europeus e Relações Internacionais",
+    "universities": [
+      {
+        "uni_code": "2910",
+        "uni_name": "Centro Universitário Lusófona - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9136&code=2910",
+        "uni_metadata": {
+          "cnaef_code": "313 Ciência Política e Cidadania"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L173",
+    "degree_name": "Estudos de Filosofia e de Cultura Contemporânea",
+    "universities": [
+      {
+        "uni_code": "0604",
+        "uni_name": "Universidade de Évora - Escola de Ciências Sociais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L173&code=0604",
+        "uni_metadata": {
+          "cnaef_code": "226 Filosofia e Ética"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "8458",
+    "degree_name": "Estudos Gerais",
+    "universities": [
+      {
+        "uni_code": "1506",
+        "uni_name": "Universidade de Lisboa - Faculdade de Letras",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8458&code=1506",
+        "uni_metadata": {
+          "cnaef_code": "999 Desconhecido ou não especificado"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L163",
+    "degree_name": "Estudos Musicais Aplicados",
+    "universities": [
+      {
+        "uni_code": "3062",
+        "uni_name": "Instituto Politécnico de Coimbra - Escola Superior de Educação de Coimbra",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L163&code=3062",
+        "uni_metadata": {
+          "cnaef_code": "212 Artes do Espetáculo"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L147",
+    "degree_name": "Estudos Orientais: Estudos Chineses e Japoneses",
+    "universities": [
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L147&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "222 Línguas e Literaturas Estrangeiras"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9917",
+    "degree_name": "Estudos Portugueses",
+    "universities": [
+      {
+        "uni_code": "1506",
+        "uni_name": "Universidade de Lisboa - Faculdade de Letras",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9917&code=1506",
+        "uni_metadata": {
+          "cnaef_code": "223 Língua e Literatura Materna"
+        }
+      },
+      {
+        "uni_code": "1000",
+        "uni_name": "Universidade do Minho",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9917&code=1000",
+        "uni_metadata": {
+          "cnaef_code": "223 Língua e Literatura Materna"
+        }
+      },
+      {
+        "uni_code": "0902",
+        "uni_name": "Universidade Nova de Lisboa - Faculdade de Ciências Sociais e Humanas",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9917&code=0902",
+        "uni_metadata": {
+          "cnaef_code": "223 Língua e Literatura Materna"
+        }
+      },
+      {
+        "uni_code": "2223",
+        "uni_name": "Universidade Católica Portuguesa - Faculdade de Filosofia e Ciências Sociais",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9917&code=2223",
+        "uni_metadata": {
+          "cnaef_code": "223 Língua e Literatura Materna"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "9918",
+    "degree_name": "Estudos Portugueses e Espanhóis",
+    "universities": [
+      {
+        "uni_code": "0400",
+        "uni_name": "Universidade da Beira Interior",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9918&code=0400",
+        "uni_metadata": {
+          "cnaef_code": "222 Línguas e Literaturas Estrangeiras"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L041",
+    "degree_name": "Estudos Portugueses e Ingleses",
+    "universities": [
+      {
+        "uni_code": "0150",
+        "uni_name": "Universidade dos Açores - Faculdade de Ciências Sociais e Humanas",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L041&code=0150",
+        "uni_metadata": {
+          "cnaef_code": "222 Línguas e Literaturas Estrangeiras"
+        }
+      }
+    ]
+  },
+  {
+    "degree_code": "L334",
+    "degree_name": "Estudos de Segurança Interna",
+    "universities": [
+      {
+        "uni_code": "2910",
+        "uni_name": "Centro Universitário Lusófona - Lisboa",
+        "uni_link": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L334&code=2910",
+        "uni_metadata": {
+          "cnaef_code": "863 Segurança Militar"
+        }
+      }
+    ]
+  }
+]
