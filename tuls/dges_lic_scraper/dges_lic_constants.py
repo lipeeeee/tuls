@@ -21,6 +21,23 @@ UNI_NAME = 'uni_name'
 UNI_LINK = 'uni_link'
 UNI_METADATA = 'uni_metadata'
 CNAEF_CODE = 'cnaef_code'
+ACCESS_EXAMS = 'access_exams'
 
-### Values
-CNAEF_SEARCH_VALUE = 'Área CNAEF:'
+### FILTER VALUES
+# uni codes
+UM_UNI_CODE = "1000"
+ISEP_UNI_CODE = "3135"
+FEUP_UNI_CODE = "1105"
+FCUP_UNI_CODE = "1103"
+IPCA_EST_UNI_CODE = "3032"
+
+# exams
+MAT_B_EXAM = "16  Matemática"
+MAT_A_EXAM = "19  Matemática A"
+PT_EXAM = "18  Português"
+FISICA_EXAM = "07  Física e Química"
+
+# cnaef
+CIENCIA_INFORMATICA_CNAEF = "481 Ciências Informáticas"
+ELETRONICA_AUTOMACAO_CNAEF = "523 Eletrónica e Automação"
+
